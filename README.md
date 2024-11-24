@@ -1,5 +1,6 @@
-# IMERSÃO DEV BACK-END_ ALURA 
-
+# IMERSÃO DEV BACK-END_ ALURA
+Link do projeto no Google Cloud: https://imersao-backend-alura-nodejs-571106836256.southamerica-east1.run.app/posts
+<br><br>
 
 ## Aula 1: 
 Desvendando API e Servidores
